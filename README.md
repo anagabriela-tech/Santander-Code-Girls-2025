@@ -28,6 +28,5 @@ This project integrates several fundamental AWS services:
 | **Amazon DynamoDB** | Database (NoSQL) | Provides a highly scalable, fully managed NoSQL database. |
 | **AWS IAM** | Security | Manages secure access and permissions for all resources. |
 | **Amazon VPC** | Networking | Creates a private, isolated network for resource security. |
-| **[Add another service if applicable]** | - | - |
 
 ---
